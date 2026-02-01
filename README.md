@@ -6,6 +6,8 @@ Template **público e seguro** de workflow n8n para criação de **agentes conve
 - Integração com agenda
 - Extensível para múltiplos domínios de negócio
 
+<p align="center"><img src="./N8N%20Agente%20Atendimento-template%20DW.png" alt="Agente WhatsApp – Template n8n" /></p>
+
 Este repositório foi desenhado para **uso comunitário**, aprendizado e rápida adaptação.
 
 ---
