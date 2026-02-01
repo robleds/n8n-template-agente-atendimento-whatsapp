@@ -26,7 +26,7 @@ Este repositório foi desenhado para **uso comunitário**, aprendizado e rápida
 
 ```text
 .
-├── Agente WhatsApp - Template NEUTRO.json
+├── DW Agente Atendimento-template.json
 └── README.md
 ```
 
